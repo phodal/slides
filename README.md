@@ -1,9 +1,11 @@
-#Phodal's Personal Slides Collection
+# Phodal's Slides
 
  - [SEO](./seo.key)
  - [提高影响力](./impact.pptx)
  - [Django](./django.pptx)
  - [如何写博客](./blog.pptx)
+ - [全栈应用开发的精益实践](./live.pptx)
+ - [探索物联网世界中的 JavaScript](./IoT-JavaScript.ppt)
 
 License
 ---
