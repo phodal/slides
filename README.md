@@ -7,6 +7,14 @@
  - [全栈应用开发的精益实践](./live.pptx)
  - [探索物联网世界中的 JavaScript](./IoT-JavaScript.ppt)
 
+speech
+---
+
+时间     |  平台          | 主题          |  Keynote
+--------|---------------|---------------|----------------
+2017.06 | 知乎Live       |  《[全栈应用开发的精益实践](https://www.zhihu.com/lives/853260795914637312)》   |  [全栈应用开发的精益实践](./live.pptx)
+2017.07 | CSDN         |《[物联网全栈开发峰会](https://edu.csdn.net/huiyiCourse/series_detail/42)》       | [探索物联网世界中的 JavaScript](./IoT-JavaScript.ppt)
+
 License
 ---
 
