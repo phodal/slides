@@ -6,6 +6,7 @@
  - [如何写博客](./blog.pptx)
  - [全栈应用开发的精益实践](./live.pptx)
  - [探索物联网世界中的 JavaScript](./IoT-JavaScript.ppt)
+ - [DSL & 云研发](./dsl-cloud-development.pptx)
 
 speech
 ---
