@@ -7,6 +7,8 @@
  - [全栈应用开发的精益实践](./live.pptx)
  - [探索物联网世界中的 JavaScript](./IoT-JavaScript.ppt)
  - [DSL & 云研发](./dsl-cloud-development.pptx)
+ - [个人开源：兴趣驱动的技术提升](./interests-driven.pptx)
+ - [Documents](./Documents.pptx)
 
 speech
 ---
